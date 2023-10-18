@@ -39,7 +39,7 @@ Full Stack Python | Flask | Django | MySQL - PostgreSQL | PHP - Laravel | Git - 
 
 ### Contacto
 - ✉️ Correo electrónico: [fredyarce452@gmail.com](mailto:tu@email.com)
-- 📱 LinkedIn: [Fredy Arce](linkedin.com/in/fredyarce)
+- 📱 LinkedIn: [Fredy Arce](https://www.linkedin.com/in/fredyarce)
 - 🌐 Sitio web: [Fredy Arce](en desarrollo)
 
 
