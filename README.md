@@ -10,6 +10,14 @@
 - 👯 Estoy buscando colaborar en proyectos open source
 - 💬 Puedes contactarme en mi gmail fredyarce452@gmail.com 📧
 
+## Conocimientos
+Full Stack Python | Flask | Django | MySQL - PostgreSQL | PHP - Laravel | Git - GitHub | Linux
+
+## Herramientas 
+
+![image](https://github.com/Fredy452/Fredy452/assets/38510500/67959c03-3a12-428b-bf2f-b82afdbdca63) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/3ea8ef8b-ee48-412c-b815-350da4120f5f)
+
+
 ## Algunos de mis proyectos
 - Nasa Api https://fredy452.github.io/proyeectoFinal/index.html: Proyecto final de Programando Paraguay que desarrolle consiste en el uso de la api oficial de la Nasa (APOD), el proyecto fue desarrollado con Html - Css - Js, Ajax.
 - Biblioteca App https://bold-spence.198-251-75-79.plesk.page/admin/login: Sistema de Gestión Bibliotecaria Instituto de Formación Docente Santa Clara Coronel Bogado
