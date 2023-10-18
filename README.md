@@ -16,7 +16,8 @@ Full Stack Python | Flask | Django | MySQL - PostgreSQL | PHP - Laravel | Git - 
 ## Herramientas 
 
 ![image](https://github.com/Fredy452/Fredy452/assets/38510500/e9b4305b-1052-44eb-993c-f79223e7574f)
-![image](https://github.com/Fredy452/Fredy452/assets/38510500/67959c03-3a12-428b-bf2f-b82afdbdca63)  ![image](https://github.com/Fredy452/Fredy452/assets/38510500/527ffba7-0213-487b-8b15-442588a4558c) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/cf73e3f8-b05e-499a-9a9a-15ae068b4bac) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/d80d1552-b6b8-4744-90d1-cd0586cb041c) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/8736632d-1d3d-4e4f-9c66-8c06881f8618) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/62355dc5-ce65-4d5e-8569-84f6f8c68f3a) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/7df2656c-638b-42e8-a749-0ff9f4da4186)
+![image](https://github.com/Fredy452/Fredy452/assets/38510500/67959c03-3a12-428b-bf2f-b82afdbdca63)  ![image](https://github.com/Fredy452/Fredy452/assets/38510500/527ffba7-0213-487b-8b15-442588a4558c) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/cf73e3f8-b05e-499a-9a9a-15ae068b4bac) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/8736632d-1d3d-4e4f-9c66-8c06881f8618) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/62355dc5-ce65-4d5e-8569-84f6f8c68f3a) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/cab81c7d-5ebd-49e7-96bd-295fc00a74d4)
+
 
 
 
