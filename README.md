@@ -32,12 +32,15 @@ Full Stack Python | Flask | Django | MySQL - PostgreSQL | PHP - Laravel | Git - 
 
 ### Mis estadisticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Fredy452)](https://github.com/Fredy452) [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredy452&layout=compact)](https://github.com/Fredy452)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Fredy452)](https://github.com/Fredy452)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredy452&layout=compact)](https://github.com/Fredy452)
 
 
 
 ### Contacto
-
+- ✉️ Correo electrónico: [fredyarce452@gmail.com](mailto:tu@email.com)
+- 📱 LinkedIn: [Fredy Arce](www.linkedin.com/in/fredyarce)
+- 🌐 Sitio web: [Fredy Arce](enlace a tu sitio web)
 
 
 <!--
