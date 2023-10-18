@@ -17,19 +17,12 @@ Full Stack Python | Flask | Django | MySQL - PostgreSQL | PHP - Laravel | Git - 
 
 ![image](https://github.com/Fredy452/Fredy452/assets/38510500/e9b4305b-1052-44eb-993c-f79223e7574f)
 ![image](https://github.com/Fredy452/Fredy452/assets/38510500/67959c03-3a12-428b-bf2f-b82afdbdca63)  ![image](https://github.com/Fredy452/Fredy452/assets/38510500/829c0cd0-2662-4ad6-be61-fea638de34ca)
- ![image](https://github.com/Fredy452/Fredy452/assets/38510500/527ffba7-0213-487b-8b15-442588a4558c) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/8736632d-1d3d-4e4f-9c66-8c06881f8618) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/62355dc5-ce65-4d5e-8569-84f6f8c68f3a) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/cab81c7d-5ebd-49e7-96bd-295fc00a74d4)
+ ![image](https://github.com/Fredy452/Fredy452/assets/38510500/527ffba7-0213-487b-8b15-442588a4558c) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/8736632d-1d3d-4e4f-9c66-8c06881f8618) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/80a43cc8-0f2a-4bbb-a42b-13efd8b0871e)
+ ![image](https://github.com/Fredy452/Fredy452/assets/38510500/37fae055-d678-47e6-a08f-ead396b09067)
+ ![image](https://github.com/Fredy452/Fredy452/assets/38510500/62355dc5-ce65-4d5e-8569-84f6f8c68f3a) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/cab81c7d-5ebd-49e7-96bd-295fc00a74d4)
 
 
-
-
-
-
-
-
-
-
-
-## Algunos de mis proyectos
+### Algunos de mis proyectos
 - Nasa Api https://fredy452.github.io/proyeectoFinal/index.html: Proyecto final de Programando Paraguay que desarrolle consiste en el uso de la api oficial de la Nasa (APOD), el proyecto fue desarrollado con Html - Css - Js, Ajax.
 - Biblioteca App https://bold-spence.198-251-75-79.plesk.page/admin/login: Sistema de Gestión Bibliotecaria Instituto de Formación Docente Santa Clara Coronel Bogado
 - Hotel Ypoa https://github.com/Fredy452/hotel-app: Aplicación web para reserva de habitaciones del hotel ypoa (en desarrollo)
