@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Fredy Arce, un apasionado de la programación 💻 y el desarrollo de software. En este repositorio, encontrarás una variedad de proyectos que reflejan mis intereses y habilidades.
 
-## Sobre mi
+### Sobre mi
 
 - 🌍 Vivo en Paraguay 🇵🇾
 - 💼 Trabajo como Desarrollador web con python 🐍
@@ -10,13 +10,13 @@
 - 👯 Estoy buscando colaborar en proyectos open source
 - 💬 Puedes contactarme en mi gmail fredyarce452@gmail.com 📧
 
-## Conocimientos
+### Conocimientos
 Full Stack Python | Flask | Django | MySQL - PostgreSQL | PHP - Laravel | Git - GitHub | Linux
 
 ## Herramientas 
 
 ![image](https://github.com/Fredy452/Fredy452/assets/38510500/e9b4305b-1052-44eb-993c-f79223e7574f)
-![image](https://github.com/Fredy452/Fredy452/assets/38510500/67959c03-3a12-428b-bf2f-b82afdbdca63) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/3ea8ef8b-ee48-412c-b815-350da4120f5f) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/b782299b-e4cb-4753-9ed0-75d61218f797) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/605b7a97-d50c-4dd5-8e04-24b7da9c0826) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/527ffba7-0213-487b-8b15-442588a4558c) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/cf73e3f8-b05e-499a-9a9a-15ae068b4bac) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/d80d1552-b6b8-4744-90d1-cd0586cb041c)
+![image](https://github.com/Fredy452/Fredy452/assets/38510500/67959c03-3a12-428b-bf2f-b82afdbdca63)  ![image](https://github.com/Fredy452/Fredy452/assets/38510500/527ffba7-0213-487b-8b15-442588a4558c) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/cf73e3f8-b05e-499a-9a9a-15ae068b4bac) ![image](https://github.com/Fredy452/Fredy452/assets/38510500/d80d1552-b6b8-4744-90d1-cd0586cb041c)
 
 
 
